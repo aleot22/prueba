@@ -1,0 +1,29 @@
+{
+    "name": "todolist",
+    "version": "1.0.0",
+    "description": "Proyecto de lista de tareas usando Node.js y TypeScript",
+    "main": "dist/api.js",
+    "scripts": {
+      "start": "node dist/api.js",
+      "build": "tsc"
+    },
+    "keywords": [
+      "todo",
+      "tasks",
+      "typescript",
+      "node"
+    ],
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "dependencies": {
+      
+    },
+    "devDependencies": {
+      
+    }
+  }
+
+
+
+
+
